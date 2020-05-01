@@ -18,6 +18,7 @@
 		8666CA292458C150008ADDC6 /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 8666CA282458C150008ADDC6 /* RxCocoa */; };
 		8666CA2B2458C150008ADDC6 /* RxBlocking in Frameworks */ = {isa = PBXBuildFile; productRef = 8666CA2A2458C150008ADDC6 /* RxBlocking */; };
 		86FA6ECF2458EABE00EED927 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FA6ECE2458EABE00EED927 /* Service.swift */; };
+		86FA6ED1245C53DB00EED927 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FA6ED0245C53DB00EED927 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8666CA192458C12B008ADDC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8666CA1B2458C12B008ADDC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86FA6ECE2458EABE00EED927 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		86FA6ED0245C53DB00EED927 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8666CA0D2458C128008ADDC6 /* AppDelegate.swift */,
 				8666CA0F2458C128008ADDC6 /* SceneDelegate.swift */,
 				8666CA112458C128008ADDC6 /* ViewController.swift */,
+				86FA6ED0245C53DB00EED927 /* SecondVC.swift */,
 				8666CA132458C128008ADDC6 /* Main.storyboard */,
 				8666CA162458C12B008ADDC6 /* Assets.xcassets */,
 				8666CA182458C12B008ADDC6 /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8666CA122458C128008ADDC6 /* ViewController.swift in Sources */,
+				86FA6ED1245C53DB00EED927 /* SecondVC.swift in Sources */,
 				86FA6ECF2458EABE00EED927 /* Service.swift in Sources */,
 				8666CA0E2458C128008ADDC6 /* AppDelegate.swift in Sources */,
 				8666CA102458C128008ADDC6 /* SceneDelegate.swift in Sources */,
